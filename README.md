@@ -8,9 +8,9 @@ Please feel free to let me know if you have any questions about my projects belo
 
 <h2>🖥️ IT/MIS Projects:</h2>
 
-- [Small Organization Network Topology]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Jimmyyzhuang/small-organization-network-simulation))
-- [Smart Filing Database System]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Jimmyyzhuang/sql-smart-filing-database))
-- [Interactive Shopping Python Application]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Jimmyyzhuang/gui-python-shopping-app))
+- [Small Organization Network Topology](https://github.com/Jimmyyzhuang/small-organization-network-simulation)
+- [Smart Filing Database System](https://github.com/Jimmyyzhuang/sql-smart-filing-database)
+- [Interactive Shopping Python Application](https://github.com/Jimmyyzhuang/gui-python-shopping-app)
 
 <h2> 🤳 Connect with me:</h2>
 
